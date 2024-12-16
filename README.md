@@ -75,12 +75,12 @@ cargo install wasm-pack
 ## 웹과 어셈블리 연동
 wasm-app template를 적용합니다.
 ```bash
-npm init wasm-app www
+npm init wasm-app web
 ```
 ### pnpm install
-www 폴더로 이동 후 package들을 설치합니다.
+web 폴더로 이동 후 package들을 설치합니다.
 ```bash
-cd www
+cd web
 pnpm install
 ```
 
@@ -92,8 +92,8 @@ experiments: {
 }
 ```
 
-### www(웹)에서 wasm 사용하기
-www/package.json을 수정합니다.
+### web(웹)에서 wasm 사용하기
+web/package.json을 수정합니다.
 ```json
 {
   "dependencies": {
@@ -109,7 +109,7 @@ wasm-pack build
 ```
 
 ### pnpm start
-www에서 pnpm start를 실행합니다.
+web에서 pnpm start를 실행합니다.
 ```bash
 pnpm start
 ```
