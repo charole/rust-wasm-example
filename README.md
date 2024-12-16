@@ -119,3 +119,4 @@ pnpm start
 ([WebAssembly가 뭐야? 너가 JavaScript를 대체한다고!?!?](https://hooninedev.com/240522/))\
 ([웹 어셈블리에 대한 오해와 사실들](https://velog.io/@kimgh06/%EC%9B%B9-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4%EC%99%80-%EC%82%AC%EC%8B%A4%EB%93%A4))\
 ([rust tutorial](https://rustwasm.github.io/book/game-of-life/hello-world.html))
+([rust handbook](https://rinthel.github.io/rust-lang-book-ko/foreword.html))
