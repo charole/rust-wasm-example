@@ -1,1 +1,0 @@
-/Users/igeonhui/WebstormProjects/rust-wasm-example/target/wasm32-unknown-unknown/release/libmy_wasm_project.rlib: /Users/igeonhui/WebstormProjects/rust-wasm-example/src/lib.rs /Users/igeonhui/WebstormProjects/rust-wasm-example/src/utils.rs
